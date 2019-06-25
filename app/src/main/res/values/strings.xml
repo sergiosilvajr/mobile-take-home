@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GuestlogicChallenge</string>
+    <string name="hint_origin_airport">Origin airport code</string>
+    <string name="hint_destiny_airport">Destiny airport code</string>
+    <string name="route_search">Start searching route</string>
+    <string name="please_type_your_airport_or_iata_code_from_origin_and_destination">Please, type your airport or IATA
+        code from origin and destination.
+    </string>
+    <string name="press_to_select_airports">Select airports</string>
+    <string name="close_window">Close this window</string>
+
+    <string name="error_title">"Oops!"</string>
+    <string name="ok">"OK!"</string>
+
+    <string name="error_codes">"Seems some of your airport codes is invalid. Try again!"</string>
+    <string name="error_missing_route">"There is no valid route between selected airports!"</string>
+
+</resources>
